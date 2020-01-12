@@ -1,0 +1,13 @@
+execute pathogen#infect()
+syntax enable
+set number
+set smarttab
+set tabstop=2
+set shiftwidth=2
+set expandtab
+set hlsearch
+set autoindent
+set ruler
+set colorcolumn=79
+set ttyfast
+set wildmenu
