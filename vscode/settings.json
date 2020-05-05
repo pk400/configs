@@ -1,0 +1,33 @@
+{
+    "workbench.colorTheme": "Ayu Mirage Bordered",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.rulers": [80],
+    "editor.tabSize": 2,
+    "files.insertFinalNewline": true,
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/*.pyc": true
+    },
+    "pythonTestExplorer.testFramework": "unittest",
+    "window.zoomLevel": -1,
+    "diffEditor.renderSideBySide": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.fontSize": 18,
+    "workbench.sideBar.location": "left",
+    "python.linting.flake8Args": [
+        "--ignore=E111, E128, E121, E129, E127, E125"
+    ],
+    "python.venvFolders": [
+        "env"
+    ],
+    "python.venvPath": "${workspaceFolder}",
+    "files.trimTrailingWhitespace": true,
+    "search.exclude": {
+        "**/*.pyc": true
+    },
+    "python.testing.unittestEnabled": true,
+    "python.linting.flake8Enabled": true,
+    "workbench.startupEditor": "welcomePage",
+    "editor.fontWeight": "500",
+}
